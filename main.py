@@ -36,7 +36,7 @@ st.title("Бот ИИ от А.Абрекова")
 
 # API
 
-api = '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'
+api = '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'
 MODEL = st.sidebar.selectbox(label='Модель ИИ', options=['gpt-3.5-turbo', 'text-davinci-003', 'text-davinci-002'])
 
 if api:
